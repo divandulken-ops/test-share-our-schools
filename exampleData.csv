@@ -1,9 +1,9 @@
-lat,lng,title,image,participating,participationtype,hours,sosgate,participatingadditional,participationtypeadditional,activityprovider,activitydate,activitytime,registrationlink
--33.885782,151.169599,Annandale Public,http://127.0.0.1:5500/annandale.png,Term,Weekend only.,8am-5pm,Pedestrian gate Johnston St ,,Basketball courts only,,,,
--33.826566,151.210731,Anzac Park Public,,Off,Saturdays Only,8am - 6pm,Pedestrian gate on Anzac Avenue,,,,,,
--33.764639,151.289314,Curl Curl North public school,,Off,Off temp,8am - 6pm,Northern pedestrian gate on Playfair Road,Not available June 30,,,,,
--33.889723,151.12821,Ashfield Public,,Activity,School Holiday,8am - 5pm,Murrell Street,,,Cricket Australia,2026-07-06,9am-3pm,https://cricketaustralia.com.au
--33.906705,151.162658,Marrickville Public,,Off,Off temp,8am - 5pm,Thompson Road,,Until Summer Holidays 26/27,,,,
--33.814849,151.071939,Melrose Park Public,,Off,Weekend only,8am - 5pm,Waratah Street,,,,,,
--33.912993,151.176696,St Peters Public,,Off,Weekend only,8am - 5pm,St Peters Street pedestrian gate,,,,,,
--33.88427,151.15814,Leichhardt Public,,Holiday,School Holidays,8am - 5pm,side gate,,,,,,
+lat,lng,title,image,participating,participationtype,hours,sosgate,participatingadditional,participationtypeadditional
+-33.885782,151.169599,Annandale Public,http://127.0.0.1:5500/annandale.png,Term,Weekend only.,8am-5pm,Pedestrian gate Johnston St ,,Basketball courts only
+-33.826566,151.210731,Anzac Park Public,,Off,Saturdays Only,8am - 6pm,Pedestrian gate on Anzac Avenue,,
+-33.764639,151.289314,Curl Curl North public school,,Off,Off temp,8am - 6pm,Northern pedestrian gate on Playfair Road,Not available June 30,
+-33.889723,151.12821,Ashfield Public,,Activity,School Holiday,8am - 5pm,Murrell Street,,
+-33.906705,151.162658,Marrickville Public,,Off,Off temp,8am - 5pm,Thompson Road,,Until Summer Holidays 26/27
+-33.814849,151.071939,Melrose Park Public,,Off,Weekend only,8am - 5pm,Waratah Street,,
+-33.912993,151.176696,St Peters Public,,Off,Weekend only,8am - 5pm,St Peters Street pedestrian gate,,
+-33.88427,151.15814,Leichhardt Public,,Holiday,School Holidays,8am - 5pm,side gate,,
