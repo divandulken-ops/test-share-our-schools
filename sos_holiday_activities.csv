@@ -1,5 +1,2 @@
-﻿School Name,Activity Provider,Activity Date,Activity Time,Registration link (URL),Lat,Lng
-Killara Public School,Cricket NSW,"Saturday, 6 July 2024",9.30am - 3.30pm,,-33.765473,151.148436
-Lake Illawarra South Public School,Cricket NSW,"Monday, 8 July 2024",9.30am - 3.30pm,,-34.539523,150.859302
-Rutherford Public School,Cricket NSW,"Monday, 8 July 2024",9.30am - 3.30pm,,-32.710925,151.52839
-Harrington Public School,Cricket NSW,"Tuesday, 9 July 2024",9.30am - 3.30pm,,-31.870234,152.688803
+School_Name,Activity_Provider,Activity_Time,Registration_Link
+Ashfield Public,Inner West Council,9am-3pm,https://cricketaustralia.com.au
